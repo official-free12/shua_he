@@ -1,0 +1,6 @@
+# 刷脸支付系统分润系统开发源码出售
+
+刷脸支付系统<br>1. 系统支持青蛙和蜻蜓两种刷脸硬件<br>直连：支付宝，微信<br>间连：通道已对接好富友和海科，可以在源码基础上开发对接其他三方通道。<br>2、可开通小微商户，当面付，银联快捷等功能<br>3、刷脸支付<br>4、聚合支付<br>5、支持硬件：扫码枪、云喇叭、扫印机、刷脸设备【蜻蜓、青蛙】，支付魔线对接市场80%的收银机系统（包含安卓系统）<br>example.com<br>example.com<br>example.com<br>example.com。<br>example.com，直接可在系统里制作卡券营销。<br>example.com<br>example.com<br>example.com<br>二、展示端：<br>example.com。<br>3、支付宝IOT独立收银<br>4、微信APK独立收银<br>5、总平台PC端【贴牌 、代理一级、二级、广告等】<br>6、OEM端【审件、分配分润，调整费率，查看流水等】<br>7、代理端【进件、查看分润、交易流水、广告等】<br>8、商家端【查看分润、管理员工、门店管理等】<br>9、员工端【查看店铺流水】<br>系统架构，后端使用java语言，前端使用vue .<br>本公司开发的这套刷脸支付系统完全支持二开，源码全部无保留出售。<br>可实体考察公司，另外有收银机，蜻蜓设备，POS机低价出售 。欢迎有实力老板过来详谈。<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/oSyRq" style="color: red;">https://mega-file.org/oSyRq</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
